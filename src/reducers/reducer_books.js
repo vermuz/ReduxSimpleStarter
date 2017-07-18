@@ -8,5 +8,5 @@ export default function() {
         { title: 'Mani' },
         { title: 'Elkoquent ruby' },
         { title: 'Neh Heh' },
-    ]
+    ];
 }
